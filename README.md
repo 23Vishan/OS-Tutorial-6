@@ -10,7 +10,16 @@
 ## How To Run
 Open a terminal in the folder containing all program files and execute the following command.
 ```
-make game
+# Question 1
+make 1
+# Question 2
+make 2
+# Question 3
+make 3
+# Question 4
+make 4
+# Question 5
+make 5
 ```
 ## Question 1
 ![](https://github.com/23Vishan/OS-Tutorial-5/blob/main/videos/1.gif)
