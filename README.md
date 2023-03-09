@@ -12,3 +12,15 @@ Open a terminal in the folder containing all program files and execute the follo
 ```
 make game
 ```
+## Question 1
+![](link)
+## Question 2
+![](link)
+## Question 3
+![](link)
+## Question 4
+![](link)
+## Question 5
+![](link)
+##
+Submitted: Thursday, February 22nd, 2023
