@@ -13,14 +13,14 @@ Open a terminal in the folder containing all program files and execute the follo
 make game
 ```
 ## Question 1
-![](link)
+![](https://github.com/23Vishan/OS-Tutorial-5/blob/main/videos/1.gif)
 ## Question 2
-![](link)
+![](https://github.com/23Vishan/OS-Tutorial-5/blob/main/videos/2.gif)
 ## Question 3
-![](link)
+![](https://github.com/23Vishan/OS-Tutorial-5/blob/main/videos/3.gif)
 ## Question 4
-![](link)
+![](https://github.com/23Vishan/OS-Tutorial-5/blob/main/videos/4.gif)
 ## Question 5
-![](link)
+![](https://github.com/23Vishan/OS-Tutorial-5/blob/main/videos/5.gif)
 ##
 Submitted: Wednesday, March 8th, 2023
