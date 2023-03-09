@@ -12,12 +12,16 @@ Open a terminal in the folder containing all program files and execute the follo
 ```
 # Question 1
 make 1
+
 # Question 2
 make 2
+
 # Question 3
 make 3
+
 # Question 4
 make 4
+
 # Question 5
 make 5
 ```
