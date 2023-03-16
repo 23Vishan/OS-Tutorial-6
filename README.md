@@ -1,4 +1,4 @@
-# Operating Systems - Tutorial 5
+# Operating Systems - Tutorial 6
 ## SOFE - 3950U Operating Systems
 
 ## Group 2 - CRN 74171
@@ -41,4 +41,4 @@ make 5
 ![](https://github.com/23Vishan/OS-Tutorial-5/blob/main/videos/5.gif)
 
 ##
-Submitted: Wednesday, March 8th, 2023
+Submitted: Wednesday, March 15th, 2023
