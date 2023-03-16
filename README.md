@@ -26,19 +26,19 @@ make 4
 make 5
 ```
 ## Question 1
-![](https://github.com/23Vishan/OS-Tutorial-5/blob/main/videos/1.gif)
+![](https://github.com/23Vishan/OS-Tutorial-6/blob/main/videos/1.wmv)
 
 ## Question 2
-![](https://github.com/23Vishan/OS-Tutorial-5/blob/main/videos/2.gif)
+![](https://github.com/23Vishan/OS-Tutorial-6/blob/main/videos/2.wmv)
 
 ## Question 3
-![](https://github.com/23Vishan/OS-Tutorial-5/blob/main/videos/3.gif)
+![](https://github.com/23Vishan/OS-Tutorial-6/blob/main/videos/3.wmv)
 
 ## Question 4
-![](https://github.com/23Vishan/OS-Tutorial-5/blob/main/videos/4.gif)
+![](https://github.com/23Vishan/OS-Tutorial-6/blob/main/videos/4.wmv)
 
 ## Question 5
-![](https://github.com/23Vishan/OS-Tutorial-5/blob/main/videos/5.gif)
+![](https://github.com/23Vishan/OS-Tutorial-6/blob/main/videos/5.wmv)
 
 ##
 Submitted: Wednesday, March 15th, 2023
